@@ -1,19 +1,19 @@
 class Solution {
 public:
+    int df(int i,int j,string &s1,string &s2,vector<vector<int>>&dp)
+    {
+        if (i<0) return j+1;
+        if (j<0) return i+1;
+        if (dp[i][j]!=-1) return dp[i][j];
+        
+        if (s1[i]!=s2[j]) return dp[i][j]=min({df(i,j-1,s1,s2,dp),df(i-1,j,s1,s2,dp),df(i-1,j-1,s1,s2,dp)})+1;
+        return dp[i][j]=df(i-1,j-1,s1,s2,dp);
+    }
+    
     int minDistance(string w1, string w2) {
         int n1=w1.size(),n2=w2.size();
-        vector<int>prev(n2+1,0),curr(n2+1,0);
-        for (int i=0;i<=n2;i+=1) prev[i]=i;
-        for (int i=1;i<=n1;i+=1)
-        {
-            curr[0]=i;
-            for (int j=1;j<=n2;j+=1)
-            {
-                if (w1[i-1]!=w2[j-1]) curr[j]=min({prev[j],curr[j-1],prev[j-1]})+1;
-                else curr[j]=prev[j-1];
-            }
-            prev=curr;
-        }
-        return prev[n2];
+        vector<vector<int>>dp(n1,vector<int>(n2,-1));
+        return df(n1-1,n2-1,w1,w2,dp);
+        
     }
 };
