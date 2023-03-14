@@ -12,16 +12,36 @@
 class Solution {
 public:
     int sumNumbers(TreeNode* root) {
-        int c=0;
-        queue<pair<TreeNode*,int>>q;
-        q.push({root,0});
-        while(!q.empty())
+        int c=0,c1=0,c2=1;
+        TreeNode*t=root;
+        while (t)
         {
-            auto [x,y]=q.front();q.pop();
-            y=y*10+x->val;
-            if (x->left==NULL && x->right==NULL) c+=y;
-            if (x->left) q.push({x->left,y});
-            if (x->right) q.push({x->right,y});
+            if (t->left==NULL)
+            {
+                c1=c1*10+t->val;
+                if (t->right==NULL) c+=c1;
+                t=t->right;
+            }
+            else
+            {
+                TreeNode*t1=t->left;
+                while (t1->right && t1->right!=t) t1=t1->right,c2+=1;
+                if (t1->right==NULL)
+                {
+                    c1=c1*10+t->val;
+                    t1->right=t;
+                    t=t->left;
+                }
+                else
+                {
+                    t1->right=NULL;
+                    if (t1->left==NULL) c+=c1;
+                    c1=c1/pow(10,c2);
+                    t=t->right;
+                }
+                c2=1;
+                
+            }
         }
         return c;
     }
