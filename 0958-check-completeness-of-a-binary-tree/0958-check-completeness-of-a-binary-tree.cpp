@@ -14,9 +14,16 @@ public:
     bool isCompleteTree(TreeNode* root) {
         queue<TreeNode*>q;
         q.push(root);
-        while (q.front()!=NULL)
+        bool t=false;
+        while (!q.empty())
         {
             TreeNode*node=q.front();q.pop();
+            if (t==1 && node!=NULL) return 0;
+            if (node==NULL)
+            {
+                t=1;
+                continue;
+            }
             q.push(node->left);
             q.push(node->right);
         }
