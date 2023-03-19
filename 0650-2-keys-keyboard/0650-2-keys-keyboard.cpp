@@ -13,8 +13,17 @@ public:
     
     int minSteps(int n) {
         if (n<=1) return 0;
-        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
-        int c=df(1,1,n,dp);
-        return c+1;
+        vector<int>dp(n+1,0);
+        for (int i=2;i<=n;i+=1)
+        {
+            dp[i]=i;
+            for (int j=2;j<=i/2;j+=1)
+            {
+                int c=i-j;
+                if (c%j==0) dp[i]=min(dp[i],dp[j]+(c/j)+1);
+            }
+        }
+        
+        return dp[n];
     }
 };
