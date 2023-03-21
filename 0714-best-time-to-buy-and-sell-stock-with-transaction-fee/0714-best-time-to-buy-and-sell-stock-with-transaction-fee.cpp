@@ -22,8 +22,29 @@ public:
     
     int maxProfit(vector<int>& pr,int fee) {
         int n=pr.size();
-        vector<vector<int>>dp(n+1,vector<int>(2,-1));
-        int c=df(0,1,fee,pr,dp);
-        return c;
+        vector<vector<int>>dp(n+1,vector<int>(2,0));
+        // int c=df(0,1,fee,pr,dp);
+        for (int i=pr.size()-1;i>=0;i-=1)
+        {
+            for (int j=0;j<=1;j+=1)
+            {
+                int c=0;
+                if (j)
+                {
+                    int c1=-pr[i]+dp[i+1][0];
+                    int c2=0+dp[i+1][1];
+                    c=max(c1,c2);
+                }
+                else
+                {
+                    int c1=pr[i]-fee+dp[i+1][1];
+                    int c2=0+dp[i+1][0];
+                    c=max(c1,c2);
+                }
+                dp[i][j]=c;
+            }
+        }
+        
+        return dp[0][1];
     }
 };
