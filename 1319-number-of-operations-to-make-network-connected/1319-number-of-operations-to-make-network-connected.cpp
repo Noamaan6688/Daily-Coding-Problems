@@ -23,8 +23,22 @@ public:
         {
             if (visit[i]==0)
             {
-                df(i,visit,v);
+                queue<int>q;
+                q.push(i);
+                visit[i]=1;
                 c+=1;
+                while (!q.empty())
+                {
+                    int j=q.front();q.pop();
+                    for (auto k:v[j])
+                    {
+                        if (visit[k]==0)
+                        {
+                            q.push(k);
+                            visit[k]=1;
+                        }
+                    }
+                }
             }
         }
         return c-1;
