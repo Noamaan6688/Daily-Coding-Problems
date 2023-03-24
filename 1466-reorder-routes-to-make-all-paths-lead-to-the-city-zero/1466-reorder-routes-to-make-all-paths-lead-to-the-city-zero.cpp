@@ -13,13 +13,25 @@ public:
     
     int minReorder(int n, vector<vector<int>>& co) {
         vector<vector<pair<int,int>>>v(n);
-        // vector<bool>visit(n+1,0);
+        vector<bool>visit(n+1,0);
         for (auto i:co)
         {
             v[i[0]].push_back({i[1],1});
             v[i[1]].push_back({i[0],0});
         }
-        int c=df(0,-1,v);
+        queue<pair<int,int>>q;
+        q.push({0,0});
+        int c=0;
+        while (!q.empty())
+        {
+            auto [x,y]=q.front();q.pop();
+            visit[x]=1;
+            c+=y;
+            for (auto i:v[x])
+            {
+                if (visit[i.first]==0) q.push(i);
+            }
+        }
         return c;
     }
 };
