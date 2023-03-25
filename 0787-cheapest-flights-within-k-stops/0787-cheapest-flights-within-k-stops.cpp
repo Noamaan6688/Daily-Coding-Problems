@@ -17,14 +17,17 @@ public:
     }
     
     int findCheapestPrice(int n, vector<vector<int>>& fl, int src, int dst, int k) {
-        vector<vector<int>>v(n+1,vector<int>(n+1,-1)),dp(k+2,vector<int>(n+1,-1));
+        vector<vector<int>>v(n+1,vector<int>(n+1,-1));
+        // dp(k+2,vector<int>(n+1,-1));
         for (auto i:fl) v[i[0]][i[1]]=i[2];
         // int c=df(src,dst,k+1,n,v,dp);
+        vector<int>prev1(n+1,0),prev2(n+1,0);
+        
         for (int k1=0;k1<k+2;k1+=1)
         {
             for (int i=n-1;i>=0;i-=1)
             {
-                if (i==dst) dp[k1][i]=0;
+                if (i==dst) prev1[i]=0;
                 else
                 {
                     int c1=1e7;
@@ -32,14 +35,15 @@ public:
                     {
                         if (v[i][j]!=-1)
                         {
-                            if (k1>0) c1=min(c1,v[i][j]+dp[k1-1][j]);
+                            if (k1>0) c1=min(c1,v[i][j]+prev2[j]);
                         }
                     }
-                    dp[k1][i]=c1;
+                    prev1[i]=c1;
                 }
             }
+            prev2=prev1;
         }
-        int c=dp[k+1][src];
+        int c=prev2[src];
         if (c==1e7) return -1;
         return c;
     }
