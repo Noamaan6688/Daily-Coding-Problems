@@ -16,19 +16,22 @@ public:
     
     bool validPartition(vector<int>& nums) {
         int n=nums.size();
-        vector<int>dp(n+1,0);
+        // vector<int>dp(n+1,0);
         // int c=df(0,nums,dp);
-        dp[n]=1;
+        // dp[n]=1;
+        int c1=1,c2=1,c3=1;
         for (int i=n-1;i>=0;i-=1)
         {
-            if (i+1<n && nums[i]==nums[i+1]) dp[i]=max(dp[i],dp[i+2]);
+            int c=0;
+            if (i+1<n && nums[i]==nums[i+1]) c=max(c,c2);
             if (i+2<n)
             {
-                if (nums[i+1]==nums[i] && nums[i+2]==nums[i+1]) dp[i]=max(dp[i],dp[i+3]);
-                else if (nums[i+2]-nums[i+1]==1 && nums[i+1]-nums[i]==1) dp[i]=max(dp[i],dp[i+3]);
+                if (nums[i+1]==nums[i] && nums[i+2]==nums[i+1]) c=max(c,c3);
+                else if (nums[i+2]-nums[i+1]==1 && nums[i+1]-nums[i]==1) c=max(c,c3);
             }
+            c3=c2;c2=c1;c1=c;
         }
         
-        return dp[0];
+        return c1;
     }
 };
