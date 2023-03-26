@@ -13,7 +13,7 @@ public:
     }
     
     int combinationSum4(vector<int>& nums, int ta) {
-        
+        sort(nums.begin(),nums.end());
         vector<uint>dp(ta+1,0);
         // int c=df(ta,nums,dp);
         dp[0]=1;
