@@ -16,8 +16,21 @@ public:
     }
     
     int countRoutes(vector<int>&lo,int st,int fi,int fu) {
-        vector<vector<int>>dp(lo.size()+1,vector<int>(fu+1,-1));
-        int c=df(st,fi,fu,lo,dp);
-        return c;
+        vector<vector<int>>dp(lo.size()+1,vector<int>(fu+1,0));
+        // int c=df(st,fi,fu,lo,dp);
+        for (int i=0;i<=fu;i+=1) dp[fi][i]=1;
+        for (int i=0;i<=fu;i+=1)
+        {
+            for (int j=0;j<lo.size();j+=1)
+            {
+                for (int j1=0;j1<lo.size();j1+=1)
+                {
+                    if (j1!=j && i>=abs(lo[j1]-lo[j])) 
+                        dp[j][i]=(dp[j][i]+dp[j1][i-abs(lo[j1]-lo[j])])%mod;
+                }
+            }
+        }
+        
+        return dp[st][fu];
     }
 };
