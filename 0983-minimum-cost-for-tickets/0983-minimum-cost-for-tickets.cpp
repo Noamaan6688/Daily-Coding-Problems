@@ -21,8 +21,25 @@ public:
     
     int mincostTickets(vector<int>& ds, vector<int>& cs) {
         int n=ds.size();
-        vector<int>dp(n+1,-1);
-        int c=df(0,n,ds,cs,dp);
-        return c;
+        vector<int>dp(n+1,0);
+        // int c=df(0,n,ds,cs,dp);
+        for (int i=n-1;i>=0;i-=1)
+        {
+            int c1=0,c2=0,c3=0,j1=0,j2=0;
+        c1=cs[0]+dp[i+1];
+        for (j1=i;j1<n;j1+=1)
+        {
+            if (ds[j1]>=ds[i]+7) break;
+        }
+        c2=cs[1]+dp[j1];
+        for (j2=i;j2<n;j2+=1)
+        {
+            if (ds[j2]>=ds[i]+30) break;
+        }
+        c3=cs[2]+dp[j2];
+        dp[i]=min({c1,c2,c3});
+        }
+        
+        return dp[0];
     }
 };
