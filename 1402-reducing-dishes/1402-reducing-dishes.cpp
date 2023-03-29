@@ -1,15 +1,15 @@
 class Solution {
 public:
-    int maxSatisfaction(vector<int>&sa) {
-        vector<int>v=sa;
-        sort(v.rbegin(),v.rend());
-        int s=0,c=0;
-        for(int i=0;i<v.size();i++){
-            if(s+v[i]>0){
-                c+=s+v[i];
-                s+=v[i];
-            }
-        }
-        return c;
-    }
+    int df(vector<int>&sa,int i,int c,vector<vector<int>>&dp) {
+      if(i==sa.size()) return 0;
+      if(dp[i][c]!=-1) return dp[i][c];
+      return dp[i][c]=max(df(sa,i+1,c,dp),sa[i]*(c)+df(sa,i+1,c+1,dp));
+  }
+
+  int maxSatisfaction(vector<int>&sa){
+      int n=sa.size();
+      vector<vector<int>>dp(n,vector<int>(n+1,-1));
+      sort(sa.begin(),sa.end());
+      return df(sa,0,1,dp);
+  }
 };
