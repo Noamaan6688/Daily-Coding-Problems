@@ -1,40 +1,22 @@
 class Solution {
 public:
+    bool df(int i,int j,int m,int n,vector<vector<int>>&grid)
+    {
+        if (i<0 || i>=m || j<0 || j>=n) return 0;
+        if (grid[i][j]==1) return 1;
+        grid[i][j]=1;
+        bool c1=df(i-1,j,m,n,grid),c2=df(i+1,j,m,n,grid),c3=df(i,j-1,m,n,grid),c4=df(i,j+1,m,n,grid);
+        return c1 && c2 && c3 && c4;
+    }
+    
     int closedIsland(vector<vector<int>>& grid) {
-        int m=grid.size(),n=grid[0].size();
+        int m=grid.size(),n=grid[0].size(),c=0;
         if(m<=2 || n<=2) return 0;
-        vector<vector<int>>visit(m,vector<int>(n,0));
-        int row[]={-1,0,1,0};
-        int col[]={0,1,0,-1};
-        int c=0;
-        for(int i=1;i<m-1;i++)
+        for (int i=0;i<m;i+=1)
         {
-            for(int j=1;j<n-1;j++)
+            for (int j=0;j<n;j+=1)
             {
-                if (grid[i][j]==0 && visit[i][j]==0)
-                {
-                    bool flag=0;
-                    queue<pair<int,int>>q;
-                    q.push({i,j});
-                    while(!q.empty())
-                    {
-                        int x=q.front().first,y=q.front().second;
-                        q.pop();
-                        visit[x][y]=1;
-                        for(int k=0;k<4;k++)
-                        {
-                            int x1=x+row[k];
-                            int y1=y+col[k];
-                            if(y1>=0 && y1<n && x1>=0 && x1<m && grid[x1][y1]==0 && visit[x1][y1]==0)
-                            {
-                                visit[x1][y]=1;
-                                q.push({x1,y1});
-                                if(y1==0 || y1==n-1 || x1==0 || x1==m-1) flag=1;
-                            }
-                        }
-                    }
-                    if(!flag) c+=1;
-                }
+                if (grid[i][j]==0 && df(i,j,m,n,grid)) c+=1;
             }
         }
         return c;
