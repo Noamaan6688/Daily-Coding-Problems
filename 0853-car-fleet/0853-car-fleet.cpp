@@ -1,14 +1,17 @@
 class Solution {
 public:
     int carFleet(int ta, vector<int>& po, vector<int>& sp) {
-        int c=0;
-        map<int,double>mp;
-        for (int i=0;i<po.size();i+=1) mp[-po[i]]=(double)(ta-po[i])/sp[i];
-        double c1=0;
-        for (auto i:mp)
+        int n = po.size();
+        vector<pair<int,int>>v;
+        for (int i=0;i<n;i+=1) v.push_back({po[i],sp[i]});
+        stack<double>st;
+        sort(v.begin(),v.end());
+        for (int i=0;i<n;i+=1)
         {
-            if (i.second>c1) c1=i.second,c+=1;
+            double c=(double)(ta-v[i].first)/(double)v[i].second;
+            while(!st.empty() && st.top()<=c) st.pop();
+            st.push(c);
         }
-        return c;
+        return  st.size();
     }
 };
