@@ -1,17 +1,17 @@
 class Solution {
 public:
     bool validateStackSequences(vector<int>& pu, vector<int>& po) {
-        stack<int>st;
-        int j=0;
+        int j1=0,j2=0;
         for (int i=0;i<pu.size();i+=1)
         {
-            st.push(pu[i]);
-            while (st.size()>0 && st.top()==po[j])
+            pu[j1]=pu[i];
+            j1+=1;
+            while (j1>0 && pu[j1-1]==po[j2])
             {
-                st.pop();
-                j+=1;
+                j1-=1;
+                j2+=1;
             }
         }
-        return st.size()==0;
+        return j1==0;
     }
 };
