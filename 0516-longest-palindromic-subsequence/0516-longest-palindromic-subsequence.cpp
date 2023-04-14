@@ -13,18 +13,20 @@ public:
     
     int longestPalindromeSubseq(string s) {
         int c=0,n=s.size();
-        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        // vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        vector<int>prev1(n+1,0),prev2(n+1,0);
         string s1=s;
         reverse(s1.begin(),s1.end());
         for (int i=1;i<=n;i+=1)
         {
             for (int j=1;j<=n;j+=1)
             {
-                if (s[i-1]==s1[j-1]) dp[i][j]=dp[i-1][j-1]+1;
-                else dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
+                if (s[i-1]==s1[j-1]) prev1[j]=prev2[j-1]+1;
+                else prev1[j]=max(prev2[j],prev1[j-1]);
             }
+            prev2=prev1;
         }
         // c=df(0,s.size()-1,s,dp);
-        return dp[n][n];
+        return prev2[n];
     }
 };
