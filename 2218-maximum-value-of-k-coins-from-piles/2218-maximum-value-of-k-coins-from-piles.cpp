@@ -19,8 +19,26 @@ public:
     
     int maxValueOfCoins(vector<vector<int>>& pi, int k) {
         int n=pi.size();
-        vector<vector<int>>dp(n+1,vector<int>(k+1,-1));
-        int c=df(0,n,k,pi,dp);
-        return c;
+        vector<vector<int>>dp(n+1,vector<int>(k+1,0));
+        // int c=df(0,n,k,pi,dp);
+        for (int i=0;i<n;i+=1)
+        {
+            int c1=pi[i].size();
+            for (int j=1;j<=k;j+=1)
+            {
+                int c2=0,c3=0;
+                if (i!=0) c2=dp[i-1][j];
+                for (int k1=0;k1<min(j,c1);k1+=1)
+                {
+                    c3+=pi[i][k1];
+                    int c4=0;
+                    if (i>0) c4=dp[i-1][j-k1-1];
+                    c2=max(c2,c3+c4);
+                }
+                dp[i][j]=c2;
+            }
+        }
+        
+        return dp[n-1][k];
     }
 };
