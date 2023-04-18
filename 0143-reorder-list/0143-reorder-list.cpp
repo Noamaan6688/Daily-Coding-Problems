@@ -30,8 +30,25 @@ public:
     
     
     void reorderList(ListNode* head) {
-        ListNode*c1=head;
-        ListNode*c2=NULL;
-        df(c1,c2);
+        if (!head || !head->next || !head->next->next) return;
+        int n=0,i=0;
+        stack<ListNode*>st;
+        ListNode*c1=head,*c2=head;
+        while (c1!=NULL)
+        {
+            st.push(c1);
+            n+=1;
+            c1=c1->next;
+        }
+        while (i<n/2)
+        {
+            ListNode*c3=st.top();
+            st.pop();
+            c3->next=c2->next;
+            c2->next=c3;
+            c2=c2->next->next;
+            i+=1;
+        }
+        c2->next=NULL;
     }
 };
