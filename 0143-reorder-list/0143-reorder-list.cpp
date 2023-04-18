@@ -31,24 +31,15 @@ public:
     
     void reorderList(ListNode* head) {
         if (!head || !head->next || !head->next->next) return;
-        int n=0,i=0;
-        stack<ListNode*>st;
-        ListNode*c1=head,*c2=head;
-        while (c1!=NULL)
+        vector<ListNode*>v;
+        for (auto i=head;i!=NULL;i=i->next) v.push_back(i);
+        int i=1,j=v.size()-1;
+        for (int i1=0;i1<v.size();i1+=1)
         {
-            st.push(c1);
-            n+=1;
-            c1=c1->next;
+            if (i1%2) head->next=v[i],i+=1;
+            else head->next=v[j],j-=1;
+            head=head->next;
         }
-        while (i<n/2)
-        {
-            ListNode*c3=st.top();
-            st.pop();
-            c3->next=c2->next;
-            c2->next=c3;
-            c2=c2->next->next;
-            i+=1;
-        }
-        c2->next=NULL;
+        head->next=NULL;
     }
 };
