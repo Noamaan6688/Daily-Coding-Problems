@@ -1,5 +1,4 @@
 class LRUCache {
-
 private:
 	int keyCount;
 	int maxKeyCount;
@@ -8,40 +7,51 @@ private:
 
 public:
 
-    LRUCache(int capacity) 
-	{
-        keyCount = 0;
-		maxKeyCount = capacity;
+    int cachesize,count;
+    set<pair<int,int>>cache;
+    unordered_map<int,int>keyvalue;
+    unordered_map<int,bool>existsincache;
+    unordered_map<int,int>countattachedtokey;
+
+    LRUCache(int capacity) {
+        cachesize=capacity;
     }
     
-    int get(int key) 
-	{
-		if(k2it.count(key) == 0) return -1;
-		
-		dll.splice(dll.begin(), dll, k2it[key]);
-		return dll.front().second;
+    int get(int key) {
+        if(!existsincache[key])
+        {
+            return -1;
+        }
+        cache.erase({countattachedtokey[key],key});
+        cache.insert({count,key});
+        countattachedtokey[key]=count;
+        count++;
+        return keyvalue[key];
     }
     
-    void put(int key, int value) 
-	{
-		if(k2it.count(key) > 0)
-		{
-			dll.splice(dll.begin(), dll, k2it[key]);
-			dll.front().second = value;
-		}	
-		else if(keyCount + 1 <= maxKeyCount)
-		{
-			dll.emplace_front(key, value);
-			k2it[key] = dll.begin();
-			keyCount++;
-		}
-		else
-		{
-			k2it.erase(dll.back().first);
-			dll.pop_back();
-			dll.emplace_front(key, value);
-			k2it[key] = dll.begin();
-		}
+    void put(int key,int value) {
+        if(!existsincache[key])
+        {
+            if(cache.size()==cachesize)
+            {
+                existsincache[(*cache.begin()).second]=false;
+                cache.erase(cache.begin());
+            }
+            cache.insert({count,key});
+            keyvalue[key]=value;
+            countattachedtokey[key]=count;
+            existsincache[key]=true;
+            count++;
+        }
+        else
+        {
+            cache.erase({countattachedtokey[key],key});
+            cache.insert({count,key});
+            keyvalue[key]=value;
+            countattachedtokey[key]=count;
+            count++;
+        }
+        return;
     }
 };
 
