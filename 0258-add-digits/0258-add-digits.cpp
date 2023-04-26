@@ -2,12 +2,16 @@ class Solution {
 public:
     int addDigits(int num) {
         int c=0;
-        while (num)
+        while(num>9)
         {
-            c+=(num%10);
-            num/=10;
+            while(num)
+            {
+                c+=(num%10);
+                num/=10;
+            }
+            num=c;
+            c=0;
         }
-        if(c<10) return c;
-        else return addDigits(c);
+        return num;
     }
 };
