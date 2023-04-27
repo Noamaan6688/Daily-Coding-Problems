@@ -9,6 +9,6 @@ public:
             if (m*m<n) i=m+1;
             else j=m-1;
         }
-        return i-1;
+        return sqrt(n);
     }
 };
