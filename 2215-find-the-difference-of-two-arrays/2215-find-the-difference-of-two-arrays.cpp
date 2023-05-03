@@ -5,16 +5,16 @@ public:
         for (int i=0;i<nums1.size();i+=1) st1.insert(nums1[i]);
         for (int i=0;i<nums2.size();i+=1) st2.insert(nums2[i]);
                 
-        vector<vector<int>>v(2);
-        for (auto i:st1)
+        // vector<vector<int>>v(2);
+        for (auto i:nums1)
         {
-            if (st2.find(i)==st2.end()) v[0].push_back(i);
+            if (st2.find(i)!=st2.end()) st2.erase(i);
         }
-        for (auto i:st2)
+        for (auto i:nums2)
         {
-            if (st1.find(i)==st1.end()) v[1].push_back(i);
+            if (st1.find(i)!=st1.end()) st1.erase(i);
         }
         
-        return v;
+        return {vector<int>(st1.begin(),st1.end()),vector<int>(st2.begin(),st2.end())};
     }
 };
