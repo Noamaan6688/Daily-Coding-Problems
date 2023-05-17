@@ -10,16 +10,32 @@
  */
 class Solution {
 public:
-    int pairSum(ListNode* head) {
-        vector<int>v;
-        ListNode*c=head;
-        while (c)
+    ListNode* df(ListNode* head) {
+        ListNode *prev=NULL, *curr=head, *forward;
+        while(curr)
         {
-            v.push_back(c->val);
-            c=c->next;
+            forward=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=forward;
         }
-        int s=0,n=v.size();
-        for (int i=0;i<n/2;i+=1) s=max(s,v[i]+v[n-i-1]);
-        return s;
+        return prev;
+    }
+    int pairSum(ListNode* head) {
+        ListNode*c1=head,*c2= head;
+        while(c2 && c2->next)
+        {
+            c1=c1->next;
+            c2=c2->next->next;
+        }
+        ListNode*c3=df(c1);
+        int c=0;
+        while(c3)
+        {
+            c=max(c,head->val+c3->val);
+            c3=c3->next;
+            head=head->next;
+        }
+        return c;
     }
 };
