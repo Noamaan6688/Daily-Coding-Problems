@@ -17,11 +17,26 @@ public:
     }
     
     int stoneGameII(vector<int>& piles) {
-        vector<vector<int> > dp(105, vector<int>(105, -1));
-        int noOfPiles = piles.size();
+        int n = piles.size();
+        vector<vector<int> > dp(n + 1, vector<int>(n + 1, -1000001));
+        vector<int> suffSum(n + 1);
         int sum = 0;
-        for(int x : piles) sum += x;
-        int c=(sum + rec(piles, 0, 1, noOfPiles, dp)) / 2;
-        return c;
+        for(int i = n - 1; i >= 0; i-=1)
+        {
+            sum += piles[i];
+            suffSum[i] = sum;
+        }
+        for(int i = 0; i <= n; i+=1) dp[n][i] = 0;
+        for(int i = n - 1; i >= 0; i-=1)
+        {
+            for(int M = 1; M <= n; M+=1)
+            {
+                for(int x = 1; x <= 2 * M && i + x <= n; x+=1)
+                {
+                    dp[i][M] = max(dp[i][M], (suffSum[i] - suffSum[i + x]) - dp[i + x][max(x, M)]);
+                }
+            }
+        }
+        return (sum + dp[0][1]) / 2;
     }
 };
