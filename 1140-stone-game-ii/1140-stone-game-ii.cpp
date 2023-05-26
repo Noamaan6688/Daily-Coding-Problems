@@ -1,34 +1,27 @@
 class Solution {
 public:
-    int rec(vector<int> &piles, int idx, int M, int noOfPiles, int turn, vector<vector<vector<int> > > &dp){
+    int rec(vector<int> &piles, int idx, int M, int noOfPiles, vector<vector<int> > &dp){
         if(idx >= noOfPiles) return 0;
-        if(dp[idx][M][turn] != -1){
-            return dp[idx][M][turn];
+        if(dp[idx][M] != -1){
+            return dp[idx][M];
         }
-        int alexGotStones;
-        if(turn){
-            alexGotStones = INT_MAX;
-            for(int i = 0; i < 2 * M; i++){
-                if(!(idx + i < noOfPiles)) break;
-                alexGotStones = min(alexGotStones, rec(piles, idx + i + 1, max(i + 1, M), noOfPiles, 0, dp));          
-            } 
-        }else{
-            alexGotStones = 0;
-            int tempSum = 0;
-            for(int i = 0; i < 2 * M; i++){
-                if(!(idx + i < noOfPiles)) break;
-                tempSum += piles[idx + i];
-                alexGotStones = max(alexGotStones, tempSum + rec(piles, idx + i + 1, max(i + 1, M), noOfPiles, 1, dp));          
-            }
+        int alexGotStones = INT_MIN;
+        int tempSum = 0;
+        for(int i = 0; i < 2 * M; i++){
+            if(!(idx + i < noOfPiles)) break;
+            tempSum += piles[idx + i];
+            alexGotStones = max(alexGotStones, tempSum - rec(piles, idx + i + 1, max(i + 1, M), noOfPiles, dp));          
         }
-        dp[idx][M][turn] = alexGotStones;
+        dp[idx][M] = alexGotStones;
         return alexGotStones;
     }
     
     int stoneGameII(vector<int>& piles) {
-        vector<vector<vector<int> > > dp(105, vector<vector<int> > (105, vector<int> (2, -1)));
-        int n= piles.size();
-        int c=rec(piles, 0, 1, n, 0, dp);
+        vector<vector<int> > dp(105, vector<int>(105, -1));
+        int noOfPiles = piles.size();
+        int sum = 0;
+        for(int x : piles) sum += x;
+        int c=(sum + rec(piles, 0, 1, noOfPiles, dp)) / 2;
         return c;
     }
 };
