@@ -1,16 +1,10 @@
 class Solution {
 public:
-    void soln(vector<int>adj[],int node,vector<bool>&vis){
-    vis[node] = 1;
-    for(auto i:adj[node])
-    {
-        if (vis[i]==0) soln(adj,i,vis);
-    }
-}
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
         vector<int>adj[n];
-        for(int i = 0;i<n;i++){
+        for(int i = 0;i<n;i++)
+        {
             for(int j = 0;j<n;j++)
             {
                 if(isConnected[i][j])
@@ -26,8 +20,19 @@ public:
         {
             if (vis[i]==0)
             {
-                soln(adj,i,vis);
                 ans+=1;
+                queue<int>q;
+                q.push(i);
+                while(!q.empty())
+                {
+                    int node = q.front();
+                    q.pop();
+                    vis[node] = 1;
+                    for (auto child:adj[node])
+                    {
+                        if(!vis[child]) q.push(child);
+                    }
+                }
             }
         }
         return ans;
