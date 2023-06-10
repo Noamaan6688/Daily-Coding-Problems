@@ -2,23 +2,21 @@ class Solution {
 public:
     int maxValue(int n, int index, int maxSum) {
         if (n==1) return maxSum;
-        maxSum-=n;
-        int left=index,right=n-index-1,ans=1;
-        int t1=-1,t2=-1;
-        while (maxSum)
+        int l=index,r=index; 
+        int ans=1,k=n,cnt=r-l+1;
+        while (k+cnt<=maxSum)
         {
-            t1+=1;
-            t2+=1;
-            int x=min(t1,left)+min(t2,right)+1;
-            if (maxSum<x) break; 
-            maxSum-=x;
-            ans+=1;
-            if(x==(left+right+1))
+            if (l!=0 || r!=n-1)
             {
-                ans+=(maxSum/x);
-                break;
+                k+=cnt;
+                if (l>=1) l-=1;
+                if (r<n-1) r+=1;
+                cnt=r-l+1;
+                ans+=1;
             }
+            else break;
         }
+        ans+=(maxSum-k)/n;
         return ans;
     }
 };
