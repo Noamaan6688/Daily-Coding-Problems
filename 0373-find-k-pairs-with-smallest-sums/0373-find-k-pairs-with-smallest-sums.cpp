@@ -1,27 +1,32 @@
 class Solution {
 public:
-    vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
+    using int2 = pair<int, int>;
+    using int3 = tuple<int, int, int>;
+   
+    vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) 
+    {
+        int n1 = nums1.size(), n2 = nums2.size();
+        priority_queue<int3, vector<int3>, greater<int3>> pq;
         vector<vector<int>> ans;
-        priority_queue<pair<int,pair<int,int>>> pq;
-        for(int i=0;i<nums1.size();i+=1)
-        {
-            for(int j=0;j<nums2.size();j+=1)
-            {
-                int sum=nums1[i]+nums2[j];
-                if (pq.size()<k) pq.push({sum,{nums1[i],nums2[j]}});
-                else if(sum<pq.top().first)
-                {
-                    pq.pop();
-                    pq.push({sum,{nums1[i],nums2[j]}});
-                }
-                else if(sum>pq.top().first) break;
-            }
-        }
-        while(k!=0 and !pq.empty())
-        {
-            ans.push_back({pq.top().second.first,pq.top().second.second});
+        ans.reserve(k);
+        set<int2> visited;
+        pq.push({nums1[0]+nums2[0], 0, 0});
+        visited.insert({0, 0});
+        while (!pq.empty()) {
+            auto [sum, i, j] = pq.top();
             pq.pop();
-            k-=1;
+            k--;
+            ans.push_back({nums1[i], nums2[j]});
+            if (k == 0) return ans;
+            
+            if (i + 1 < n1 && visited.count({i + 1, j}) == 0) {
+                pq.push({nums1[i + 1]+nums2[j], i + 1, j});
+                visited.insert({i + 1, j});
+            } 
+            if (j + 1 < n2 && visited.count({i, j + 1}) == 0) {
+                pq.push({nums1[i]+nums2[j + 1], i, j + 1});
+                visited.insert({i, j + 1});
+            } 
         }
         return ans;
     }
