@@ -1,36 +1,35 @@
 class Solution {
 public:
-    double ans = 0;
-    double mn = 1e-5;
-    void f(int start, int end, vector<bool> &vis, vector<pair<int, double>> adj[], double sum) {
-        if (sum <= mn) return;
-        if (start == end) 
+    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start, int end) {
+        vector<pair<int,double>>adj[n]; 
+        for(int i=0;i<edges.size();i++)
         {
-            ans = max(ans, sum);
-            return;
+            adj[edges[i][0]].push_back({edges[i][1],succProb[i]});
+            adj[edges[i][1]].push_back({edges[i][0],succProb[i]});
         }
-        vis[start] = true;
-        for (auto node : adj[start]) {
-            int child = node.first;
-            double p = node.second;
-
-            if (vis[child] == false && sum * p >= ans) {
-                f(child, end, vis, adj, sum * p);
+        priority_queue<pair<double,int>>pq; 
+        pq.push({1.0,start}); 
+        vector<double>dist(n,INT_MIN);
+        dist[start]=1;
+        while(!pq.empty())
+        {
+            auto itr=pq.top();
+            pq.pop();
+            double dis=itr.first;
+            int node=itr.second;
+            for(auto it:adj[node])
+            {
+                int adjNode=it.first;
+                double edW=it.second;
+                if(dist[adjNode]<dis*edW)
+                { 
+                    dist[adjNode]=dis*edW;
+                    pq.push({dist[adjNode],adjNode});
+                }
             }
-        }
-        vis[start] = false;
-    }
-
-    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start, int end)
-     {
-        vector<pair<int, double>> adj[n];
-        for (int i = 0; i < edges.size(); i++) 
-        {
-            adj[edges[i][0]].push_back({ edges[i][1], succProb[i] });
-            adj[edges[i][1]].push_back({ edges[i][0], succProb[i] });
-        }
-        vector<bool> vis(n, false);
-        f(start, end, vis, adj, 1);
-        return ans;
+        }        
+        if(dist[end]==INT_MIN) return 0.00000; 
+        else return dist[end];
     }
 };
+
