@@ -1,87 +1,86 @@
-class DisjointSet {
-private:
-    vector<int> size, par;
-
-public:
-    DisjointSet(int n) {
-        size.resize(n, 1);
-        par.resize(n);
-        for(int i=0; i<n; i++)
-            par[i] = i;
-    }
-
-    int findPar(int x) {
-        if(par[x] == x) return x;
-        return par[x] = findPar(par[x]);
-    }
-
-    void merge(int x, int y) {
-        int px = findPar(x);
-        int py = findPar(y);
-
-        if(px == py) return;
-
-        if(size[px] < size[py]) {
-            par[px] = py;
-            size[py] += size[px];
-        } else {
-            par[py] = px;
-            size[px] += size[py];
-        }
-    }
-
-    bool connected(int x, int y) {
-        return findPar(x) == findPar(y);
-    }
-};
-
 class Solution {
 public:
-    int latestDayToCross(int row, int col, vector<vector<int>>& cells) {
-        vector<vector<int>> grid(row, vector<int> (col, 0));
-        for(auto &x: cells) {
-            grid[x[0] - 1][x[1] - 1] = 1;
-        }   
+    int ROW;
+    int COL;
+    vector<vector<int>> directions{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    
+    bool bfs(vector<vector<int>> &grid, int i, int j) {
         
-        int dirs[5] = {-1, 0, 1, 0, -1}; 
-        int totalCells = row * col; 
-        int rowStart = totalCells, rowEnd = totalCells + 1; 
-        DisjointSet ds(totalCells + 2); 
-        for(int i=0; i<row; i++) {
-            for(int j=0; j<col; j++) {
-                for(int k=0; k<4; k++) {
-                    int ni = i + dirs[k];
-                    int nj = j + dirs[k+1];
-
-                    if (ni >= 0 && ni < row && nj >= 0 && nj < col && grid[ni][nj] == 0) {
-                        int nodeVal = i*col + j;
-                        int nextVal = ni*col + nj;
-                        ds.merge(nodeVal, nextVal);
-                    }
+        queue<pair<int, int>> que;
+        que.push({i, j});
+        grid[i][j] = 1;
+        
+        while(!que.empty()) {
+            
+            auto temp = que.front();
+            que.pop();
+            
+            int x = temp.first;
+            int y = temp.second;
+            
+            if(x == ROW-1)
+                return true;
+            
+            for(vector<int> & dir : directions) {
+                
+                int new_x = x + dir[0];
+                int new_y = y + dir[1];
+                
+                if(new_x >= 0 && new_x < ROW && new_y >= 0 && new_y < COL && grid[new_x][new_y] == 0) {
+                    que.push({new_x, new_y});
+                    grid[new_x][new_y] = true;
                 }
+                
+            }
+            
+        }
+        
+        return false;
+    }
+    
+    bool canCross(vector<vector<int>>& cells, int day) {
+        vector<vector<int>> grid(ROW, vector<int>(COL));
+        
+        for (int i = 0; i <= day; ++i) {
+            int r = cells[i][0] - 1;
+            int c = cells[i][1] - 1;
+            
+            grid[r][c] = 1;
+        }
+        
+        for (int j = 0; j < COL; j++) {
+            if (grid[0][j] == 0 && bfs(grid, 0, j)) {
+                return true;
             }
         }
-        for(int c=totalCells-1; c>=0; c--) {
-            int i = cells[c][0] - 1;
-            int j = cells[c][1] - 1;
-            int nodeVal = i*col + j;
-            grid[i][j] = 0; 
-
-            for(int k=0; k<4; k++) {
-                int ni = i + dirs[k];
-                int nj = j + dirs[k+1];
-
-                if(ni >= 0 && ni < row && nj >= 0 && nj < col && grid[ni][nj] == 0) {
-                    int nodeVal = i*col + j;
-                    int nextVal = ni*col + nj;
-                    ds.merge(nodeVal, nextVal);
-                }
+        return false;
+        
+    }
+    
+    int latestDayToCross(int row, int col, vector<vector<int>>& cells) {
+        ROW = row;
+        COL = col;
+        
+        int n = cells.size();
+        
+        int l = 0;
+        int r = cells.size()-1;
+        int lastDay = 0;
+        
+        while( l <= r) {
+            
+            int mid = l + (r-l)/2;
+            
+            if(canCross(cells, mid)) {
+                lastDay = mid+1;
+                l       = mid+1;
+            } else {
+                r = mid-1;
             }
-            if(i == 0)      ds.merge(rowStart, nodeVal); 
-            if(i == row-1)  ds.merge(rowEnd, nodeVal); 
-            if(ds.connected(rowStart, rowEnd))  return c; 
-
+            
         }
-        return 0;
+        
+        return lastDay;
+        
     }
 };
