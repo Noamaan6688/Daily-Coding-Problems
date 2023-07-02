@@ -13,11 +13,11 @@ public:
         }
 
         help(i+1,v,l,temp);
-        temp[v[i][1]]--;
-        temp[v[i][0]]++;
-        help(i+1,v,l+1,temp);
-        temp[v[i][1]]++;
         temp[v[i][0]]--;
+        temp[v[i][1]]++;
+        help(i+1,v,l+1,temp);
+        temp[v[i][0]]++;
+        temp[v[i][1]]--;
     }
     int maximumRequests(int n, vector<vector<int>>& requests) {
         vector<int>temp(n,0);
