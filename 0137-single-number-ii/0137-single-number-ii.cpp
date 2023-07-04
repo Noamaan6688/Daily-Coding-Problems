@@ -1,17 +1,17 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans=0;
-        for(int i=0; i<32; i++)
-        {     
-            int t=0;
-            for(int j=0; j<nums.size(); j++)
-            {
-                t+=(nums[j]&1);
-                nums[j]>>=1;
+        sort(nums.begin(), nums.end());
+        if (nums.size() % 3 != 0) {
+            while (nums.size() % 3 != 0) {
+                nums.push_back(0);
             }
-            ans+=((t%3)<<i);
         }
-        return ans;
+        for (int i = 0; i < nums.size() - 2; i = i + 3) {
+            if (nums[i] != nums[i + 2]) {
+                return nums[i];
+            }
+        }
+        return 0;
     }
 };
