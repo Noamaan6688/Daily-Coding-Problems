@@ -1,29 +1,31 @@
 class Solution {
 public:
     int largestVariance(string s) {
-        vector<int>arr(26);
-        for(auto x:s) arr[x-'a']++;
-        int ans=0;
-        for(char i='a';i<='z';i++){
-            for(char j='a';j<='z';j++){
-                 if(j==i||arr[i-'a']==0||arr[j-'a']==0) continue;
-                for(int k=1;k<=2;k++){
-                    int c1=0;
-                    int c2=0;
-                    for(auto x:s){
-                        if(x==i) c1+=1;
-                        if(x==j) c2+=1;
-                        if(c2>c1)
-                        {
-                            c1=0;
-                            c2=0;
-                        }
-                        if (c1>0 && c2>0) ans=max(ans,c1-c2);
+        int n = s.size();
+        int res = 0;
+        for (char p = 'a'; p <= 'z'; p++) {
+            for (char q = 'a'; q <= 'z'; q++) {
+                if (p == q) continue;
+                int pCount = 0;
+                int qCount = 0;
+                bool canExtendprevQ = false;
+                for (auto c : s) {
+                    if (c == p) pCount++;
+                    if (c == q) qCount++;
+                    if (qCount > 0) {
+                        res = max(res, pCount - qCount);
                     }
-                    reverse(s.begin(),s.end());
+                    else if (qCount == 0 && canExtendprevQ) {
+                        res = max(res, pCount - 1);
+                    }
+                    if (qCount > pCount) {
+                        qCount =0;
+                        pCount = 0;
+                        canExtendprevQ = true;
+                    }
                 }
             }
         }
-        return ans;
+        return res;
     }
 };
