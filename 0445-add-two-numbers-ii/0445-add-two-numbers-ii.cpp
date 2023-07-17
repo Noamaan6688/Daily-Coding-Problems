@@ -10,78 +10,44 @@
  */
 class Solution {
 public:
-    ListNode* ReverseLL(ListNode* &head){
-        if(head==NULL  ||  head->next==NULL) return head;
-        ListNode* prev=NULL;
-        ListNode* curr=head;
-
-        while(curr != NULL){
-            ListNode* next= curr->next;
-            curr->next= prev;
-            prev= curr;
-            curr=next;
+    ListNode* reverse(ListNode* head){
+        ListNode *p, *q;
+        p=head, q=NULL;
+        
+        while(p!=NULL){
+            ListNode* on=p->next; 
+            p->next=q; 
+            q=p;
+            p=on;
         }
-        return prev;
+        return q;
     }
-
-    void InsertAtTail(ListNode*&head, ListNode*&tail, int val){
-        ListNode* temp=new ListNode(val);
-        if(head==NULL){
-            head= temp;
-            tail=head;
-            return;
-        }
-        else{
-            tail->next=temp;
-            tail=tail->next;
-        }
-    }
-
-    ListNode* Addition(ListNode*first, ListNode*second){
+    ListNode* addTwoNumbers(ListNode* head1, ListNode* head2) {
+        ListNode* p=reverse(head1);
+        ListNode* q=reverse(head2);
+        ListNode *head, *last;
+        head=last=new ListNode(-1);
         int carry=0;
-        ListNode*head=NULL;
-        ListNode*tail=NULL;
-
-        while(first != NULL   &&   second != NULL){
-            int sum= first->val + second->val + carry;
-            carry= sum/10;
-            int digit= sum%10;
-            InsertAtTail(head,tail,digit);
-            first=first->next; 
-            second=second->next;
+        while(p!=NULL || q!=NULL)
+        {
+            int d=(p!=NULL ? p->val:0) + (q!=NULL ? q->val:0) + carry;
+            ListNode *temp=new ListNode(d%10);
+            last->next=temp;
+            last=temp;
+            carry=d/10;
+            if(p) p=p->next;
+            if(q) q=q->next;
         }
-
-        while(first!=NULL){
-            int sum= carry+ first->val;
-            carry=sum/10;
-            int digit= sum%10;
-            InsertAtTail(head,tail,digit);
-            first=first->next; 
+        
+        if(carry!=0){
+            ListNode *temp=new ListNode(carry);
+            last->next=temp;
+            last=temp;
         }
-        while(second!=NULL){
-            int sum= carry+ second->val;
-            carry=sum/10;
-            int digit= sum%10;
-            InsertAtTail(head,tail,digit);
-            second=second->next;
-        }
-        while(carry != 0){
-            int sum= carry;
-            carry=sum/10;
-            int digit= sum%10;
-            InsertAtTail(head,tail,digit);
-        }
+        
+        head=head->next;
+        head=reverse(head);
+        
         return head;
-    }
-
-
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        l1=ReverseLL(l1);
-        l2=ReverseLL(l2);
-
-        ListNode* ansLL= Addition(l1,l2);
-
-        ansLL= ReverseLL(ansLL);
-        return ansLL;
     }
 };
