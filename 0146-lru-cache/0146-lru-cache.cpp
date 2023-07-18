@@ -18,10 +18,7 @@ public:
     }
     
     int get(int key) {
-        if(!existsincache[key])
-        {
-            return -1;
-        }
+        if(!existsincache[key]) return -1;
         cache.erase({countattachedtokey[key],key});
         cache.insert({count,key});
         countattachedtokey[key]=count;
@@ -49,7 +46,7 @@ public:
             cache.insert({count,key});
             keyvalue[key]=value;
             countattachedtokey[key]=count;
-            count++;
+            count+=1;
         }
         return;
     }
