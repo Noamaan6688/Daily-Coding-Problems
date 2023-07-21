@@ -1,41 +1,36 @@
 class Solution {
 public:
-    pair<int, int> solve(vector<int>&nums, vector<int>&length, vector<int>&count, int currIdx)
-    {
-        if (length[currIdx] != -1) return {length[currIdx], count[currIdx]};
-        
-        int LISLen = 1, LISCount = 1;
-        for (int i = currIdx + 1; i < nums.size(); i++)
-        {
-            if (nums[i] > nums[currIdx])
-            {
-                pair<int, int>nextLenCount = solve(nums, length, count, i);
-                int currLen = 1 + nextLenCount.first; 
-                if (currLen > LISLen)
-                {
-                    LISLen = currLen;
-                    LISCount = nextLenCount.second; 
-                }
-                else if (currLen == LISLen) 
-                    LISCount = LISCount + nextLenCount.second;
-            }
-        }
-        length[currIdx] = LISLen; count[currIdx] = LISCount;
-        return {LISLen, LISCount};
-    }
     int findNumberOfLIS(vector<int>& nums) 
     {
         int n = nums.size(), maxLISLen = 1;
-        unordered_map<int, int>mp;
-        vector<int>length(n, -1), count(n, -1);
-        for (int start = 0; start < n; start++)
+        vector<int>length(n, -1), count(n, -1); 
+        for (int start = n - 1; start >= 0; start--)
         {
-            pair<int, int>lenCountPair  = solve(nums, length, count, start);
-            int LISLen = lenCountPair.first, LISCount = lenCountPair.second;
-            mp[LISLen] += LISCount;
-            maxLISLen = max(maxLISLen, LISLen);
+            int LISLen = 1, LISCount = 1;
+            for (int i = start + 1; i < nums.size(); i++)
+            {
+                if (nums[i] > nums[start])
+                {
+                    int currLen = 1 + length[i]; 
+                    if (currLen > LISLen)
+                    {
+                        LISLen = currLen;
+                        LISCount = count[i]; 
+                    }
+                    else if (currLen == LISLen) 
+                        LISCount = LISCount + count[i];
+                }
+            }
+            length[start] = LISLen; 
+            count[start] = LISCount;
+            maxLISLen = max(maxLISLen, length[start]);
         }
-        return mp[maxLISLen];
-        
+        int ans = 0;
+        for (int i = 0; i < n; i++)
+        {
+            if (length[i] == maxLISLen) 
+                ans += count[i];
+        }
+        return ans; 
     }
 };
