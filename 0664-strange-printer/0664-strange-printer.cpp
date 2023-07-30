@@ -17,7 +17,23 @@ public:
     int strangePrinter(string s)
     {
         int len = s.size();
-        vector<vector<int>> dp(len, vector<int>(len, -1));
-        return solveMem(s, 0, len - 1, dp);
+        vector<vector<int>> dp(len + 1, vector<int>(len + 1, 0));
+        int ans, tmp, right;
+        for (int left = len - 1; left >= 0; left-=1)
+        {
+            dp[left][left] = 1;
+            for (int right = left + 1; right < len; right+=1)
+            {
+                ans = INT_MAX;
+                for (int k = left; k < right; k+=1)
+                {
+                    tmp = dp[left][k] + dp[k + 1][right];
+                    ans = min(ans, tmp);
+                }
+                if (s[left] == s[right]) ans-=1;
+                dp[left][right] = ans;
+            }
+        }
+        return dp[0][len - 1];
     }
 };
