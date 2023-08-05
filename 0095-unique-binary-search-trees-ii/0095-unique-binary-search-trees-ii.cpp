@@ -36,8 +36,17 @@ public:
 
         return ans;
     }
-    
-    vector<TreeNode*> generateTrees(int n) {
-        return buildTree(1, n);
+    vector<TreeNode*> generateTrees(int n,int start=1) {
+         
+        if(n<start) return {NULL};
+        vector<TreeNode*>res;
+        for(int i=start;i<=n;i++){
+            for(auto leftSubTree:generateTrees(i-1,start)){
+                for(auto rightSubTree:generateTrees(n,i+1)){
+                    res.push_back(new TreeNode(i,leftSubTree,rightSubTree));
+                }
+            }
+        }
+        return res;
     }
 };
