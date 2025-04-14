@@ -12,6 +12,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1656-count-good-triplets](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2107-find-unique-binary-string) |
@@ -298,6 +299,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3548-find-the-count-of-good-integers) |
