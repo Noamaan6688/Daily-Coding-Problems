@@ -19,6 +19,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2448-count-number-of-bad-pairs) |
