@@ -55,6 +55,7 @@
 | [3483-alternating-groups-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -160,6 +161,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
@@ -168,6 +170,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Design
 |  |
 | ------- |
@@ -186,6 +189,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -205,6 +209,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
 | ------- |
