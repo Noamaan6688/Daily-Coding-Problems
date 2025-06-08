@@ -249,6 +249,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -432,4 +433,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
