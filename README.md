@@ -156,6 +156,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -407,6 +410,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Recursion
 |  |
 | ------- |
