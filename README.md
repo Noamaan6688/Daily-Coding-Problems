@@ -54,6 +54,7 @@
 | [3194-find-words-containing-character](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3430-count-days-without-meetings) |
@@ -191,6 +192,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -248,6 +250,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
