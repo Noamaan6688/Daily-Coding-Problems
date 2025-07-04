@@ -11,7 +11,6 @@ int f(int index,ll k,vector<int>& operations)
     return f(index-1,k,operations);
 }
 char kthCharacter(long long k, vector<int>& operations) {
-
         pows.resize(55,1);
         pows[0]=1;
         for(int i=1;i<55;i++) pows[i]*=2*pows[i-1];
