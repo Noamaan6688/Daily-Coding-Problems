@@ -15,6 +15,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0945-snakes-and-ladders) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -178,6 +179,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -329,6 +331,7 @@
 | [0386-lexicographical-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -541,6 +544,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Linked List
 |  |
 | ------- |
