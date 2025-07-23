@@ -187,6 +187,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2107-find-unique-binary-string) |
@@ -213,6 +214,7 @@
 ## Stack
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -303,6 +305,7 @@
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
