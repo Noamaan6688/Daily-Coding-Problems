@@ -54,6 +54,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -487,6 +488,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -589,4 +591,8 @@
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
