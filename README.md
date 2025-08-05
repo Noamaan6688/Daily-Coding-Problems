@@ -100,6 +100,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -498,6 +500,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -577,6 +580,7 @@
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -585,6 +589,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
