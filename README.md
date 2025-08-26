@@ -192,6 +192,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3548-find-the-count-of-good-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -273,6 +274,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -556,6 +558,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Queue
 |  |
@@ -616,6 +619,7 @@
 | [0231-power-of-two](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Indexed Tree
 |  |
