@@ -251,6 +251,7 @@
 | [3447-clear-digits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -339,6 +340,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -472,6 +474,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
