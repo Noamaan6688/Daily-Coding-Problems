@@ -1,54 +1,22 @@
 class Solution {
 public:
+    bool isValidSudoku(vector<vector<char>>& board) {
+        vector<unordered_set<char>> rows(9), cols(9), blocks(9);
 
-    bool checkRow(vector<vector<char>>& board , int row){
-        set<char> s;
-        for(int i=0;i<9;i++){
-            if(s.find(board[row][i]) != s.end())
-                return false;
-            if(board[row][i] != '.')
-                s.insert(board[row][i]);    
-        }
-        return true;
-    }
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                char c = board[i][j];
+                if (c == '.') continue;
 
-    bool checkCol(vector<vector<char>>& board , int col){
-        set<char> s;
-        for(int i=0;i<9;i++){
-            if(s.find(board[i][col]) != s.end())
-                return false;
-            if(board[i][col] != '.')
-                s.insert(board[i][col]);    
-        }
-        return true;
-    }
+                int boxIdx = (i / 3) * 3 + (j / 3);
 
-    bool checkBox(vector<vector<char>>& board , int row, int col){
-        set<char> s;
-        for(int i=0;i<3;i++){
-            for(int j=0;j<3;j++){
-                int curr = board[i+row][j+col];
-                if(s.find(curr) != s.end())
+                if (rows[i].count(c) || cols[j].count(c) || blocks[boxIdx].count(c)) {
                     return false;
-                if(curr != '.')
-                    s.insert(curr);
+                }
 
-            } 
-        }
-        return true;
-    }
-
-    bool isValid(vector<vector<char>>& board , int row, int col){
-        return checkRow(board,row) && checkCol(board,col) &&
-                checkBox(board , row-row%3 , col-col%3);
-    }
-
-    bool isValidSudoku(vector<vector<char>>& board)
-    {
-        for(int row=0;row<9;row++){
-            for(int col=0;col<9;col++){
-                if(!isValid(board,row,col))
-                    return false;
+                rows[i].insert(c);
+                cols[j].insert(c);
+                blocks[boxIdx].insert(c);
             }
         }
         return true;
