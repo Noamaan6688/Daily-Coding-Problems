@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0368-largest-divisible-subset) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0797-rabbits-in-forest) |
@@ -350,6 +352,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -497,6 +500,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
