@@ -92,6 +92,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3430-count-days-without-meetings) |
@@ -198,6 +199,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -308,6 +310,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
@@ -628,6 +631,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -698,4 +702,8 @@
 | ------- |
 | [0826-soup-servings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
