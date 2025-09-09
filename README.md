@@ -290,6 +290,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3447-clear-digits) |
@@ -489,6 +490,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -598,6 +600,7 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
