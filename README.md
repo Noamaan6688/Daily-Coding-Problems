@@ -36,6 +36,7 @@
 | [1656-count-good-triplets](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -139,6 +140,7 @@
 | [1500-count-largest-group](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -388,6 +390,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
