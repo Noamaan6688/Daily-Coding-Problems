@@ -21,6 +21,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0945-snakes-and-ladders) |
+| [1006-vowel-spellchecker](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1006-vowel-spellchecker) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -133,6 +134,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -242,6 +244,7 @@
 | [0038-count-and-say](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1160-letter-tile-possibilities) |
