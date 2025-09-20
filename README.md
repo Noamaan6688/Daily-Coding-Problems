@@ -124,6 +124,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -367,6 +369,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -601,6 +604,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -626,6 +630,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
@@ -706,6 +711,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
