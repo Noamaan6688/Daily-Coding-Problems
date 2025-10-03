@@ -12,6 +12,7 @@
 | [0120-triangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -376,6 +377,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2023-design-movie-rental-system) |
@@ -495,6 +497,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -579,6 +582,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
