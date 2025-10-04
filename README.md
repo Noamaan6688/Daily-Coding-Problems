@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0118-pascals-triangle) |
@@ -438,6 +439,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
@@ -566,6 +568,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0868-push-dominoes) |
