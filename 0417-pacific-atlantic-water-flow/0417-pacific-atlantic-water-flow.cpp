@@ -1,86 +1,45 @@
 class Solution {
 public:
-    vector<vector<int>> pacificAtlantic(vector<vector<int>>& he) {
-        int n1=he.size(),n2=he[0].size();
-        vector<vector<int>> visit1(n1,vector<int>(n2,0)),visit2(n1,vector<int>(n2,0));
-        queue<pair<int,int>>q;
-        for (int i=0;i<n1;i+=1)
-        {
-            visit1[i][n2-1]=1;
-            q.push({i,n2-1});
-        }
-        for (int i=0;i<n2;i+=1)
-        {
-            visit1[n1-1][i]=1;
-            q.push({n1-1,i});
-        }
-        while (!q.empty())
-        {
-            int x=q.front().first,y=q.front().second;
-            q.pop();
-            for (int i=-1;i<=1;i+=1)
-            {
-                for (int j=-1;j<=1;j+=1)
-                {
-                    if (i==0 || j==0)
-                    {
-                        int x1=x+i,y1=y+j;
-                        if (x1>=0 && y1>=0 && x1<n1 && y1<n2)
-                        {
-                            if (visit1[x1][y1]==0 && he[x1][y1]>=he[x][y])
-                            {
-                                visit1[x1][y1]=1;
-                                q.push({x1,y1});
-                            }
-                        }
-                    }
+    int m, n;
+    vector<vector<int>> dirs{{1,0},{-1,0},{0,1},{0,-1}};
+    
+    void bfs(vector<vector<int>>& h, queue<pair<int,int>>& q, vector<vector<bool>>& vis) {
+        while (!q.empty()) {
+            auto [i,j] = q.front(); q.pop();
+            vis[i][j] = true;
+            for (auto &d : dirs) {
+                int x = i+d[0], y = j+d[1];
+                if (x>=0 && y>=0 && x<m && y<n && !vis[x][y] && h[x][y] >= h[i][j]) {
+                    vis[x][y] = true;
+                    q.push({x,y});
                 }
             }
         }
+    }
+    
+    vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
+        m = heights.size(), n = heights[0].size();
+        vector<vector<bool>> pac(m, vector<bool>(n, false));
+        vector<vector<bool>> atl(m, vector<bool>(n, false));
+        queue<pair<int,int>> pq, aq;
         
-        
-        
-        for (int i=0;i<n1;i+=1)
-        {
-            visit2[i][0]=1;
-            q.push({i,0});
+        for (int i=0;i<m;i++) {
+            pq.push({i,0}); aq.push({i,n-1});
         }
-        for (int i=0;i<n2;i+=1)
-        {
-            visit2[0][i]=1;
-            q.push({0,i});
+        for (int j=0;j<n;j++) {
+            pq.push({0,j}); aq.push({m-1,j});
         }
-        while (!q.empty())
-        {
-            int x=q.front().first,y=q.front().second;
-            q.pop();
-            for (int i=-1;i<=1;i+=1)
-            {
-                for (int j=-1;j<=1;j+=1)
-                {
-                    if (i==0 || j==0)
-                    {
-                        int x1=x+i,y1=y+j;
-                        if (x1>=0 && y1>=0 && x1<n1 && y1<n2)
-                        {
-                            if (visit2[x1][y1]==0 && he[x1][y1]>=he[x][y])
-                            {
-                                visit2[x1][y1]=1;
-                                q.push({x1,y1});
-                            }
-                        }
-                    }
-                }
+        
+        bfs(heights, pq, pac);
+        bfs(heights, aq, atl);
+        
+        vector<vector<int>> res;
+        for (int i=0;i<m;i++) {
+            for (int j=0;j<n;j++) {
+                if (pac[i][j] && atl[i][j])
+                    res.push_back({i,j});
             }
         }
-        vector<vector<int>>v;
-        for (int i=0;i<n1;i+=1)
-        {
-            for (int j=0;j<n2;j+=1)
-            {
-                if (visit1[i][j] && visit2[i][j]) v.push_back({i,j});
-            }
-        }
-        return v;
+        return res;
     }
 };
