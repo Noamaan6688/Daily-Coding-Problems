@@ -298,6 +298,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -516,6 +517,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -532,6 +534,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -751,6 +754,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
