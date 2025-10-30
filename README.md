@@ -119,6 +119,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -465,6 +466,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3618-find-the-original-typed-string-ii) |
