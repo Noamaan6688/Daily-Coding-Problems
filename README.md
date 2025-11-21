@@ -191,6 +191,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2023-design-movie-rental-system) |
@@ -344,6 +345,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2107-find-unique-binary-string) |
@@ -500,6 +502,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -788,6 +791,7 @@
 | [0231-power-of-two](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2308-divide-array-into-equal-pairs) |
