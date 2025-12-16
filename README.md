@@ -147,6 +147,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -629,6 +630,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -647,6 +649,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -726,6 +729,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3637-count-number-of-balanced-permutations) |
