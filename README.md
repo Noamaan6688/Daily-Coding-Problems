@@ -40,6 +40,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -796,6 +797,7 @@
 | [0498-diagonal-traverse](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0945-snakes-and-ladders) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -854,6 +856,7 @@
 | [0611-valid-triangle-number](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2054-two-best-non-overlapping-events) |
