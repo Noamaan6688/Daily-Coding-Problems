@@ -199,6 +199,7 @@
 | [0036-valid-sudoku](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0900-reordered-power-of-2) |
@@ -373,6 +374,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0038-count-and-say) |
 | [0474-ones-and-zeroes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0868-push-dominoes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -593,6 +595,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -884,6 +887,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0231-power-of-two) |
+| [0756-pyramid-transition-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
