@@ -1,86 +1,56 @@
+class DSU {
+    vector<int> root, size;
+
+public:
+    DSU(int n) : root(n), size(n, 1) { iota(root.begin(), root.end(), 0); }
+
+    int find(int x) {
+        if (root[x] != x)
+            root[x] = find(root[x]);
+        return root[x];
+    }
+
+    void unite(int x, int y) {
+        int rx = find(x), ry = find(y);
+        if (rx == ry)
+            return;
+        if (size[rx] > size[ry])
+            swap(rx, ry);
+        root[rx] = ry;
+        size[ry] += size[rx];
+    }
+};
+
 class Solution {
 public:
-    int ROW;
-    int COL;
-    vector<vector<int>> directions{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-    
-    bool bfs(vector<vector<int>> &grid, int i, int j) {
-        
-        queue<pair<int, int>> que;
-        que.push({i, j});
-        grid[i][j] = 1;
-        
-        while(!que.empty()) {
-            
-            auto temp = que.front();
-            que.pop();
-            
-            int x = temp.first;
-            int y = temp.second;
-            
-            if(x == ROW-1)
-                return true;
-            
-            for(vector<int> & dir : directions) {
-                
-                int new_x = x + dir[0];
-                int new_y = y + dir[1];
-                
-                if(new_x >= 0 && new_x < ROW && new_y >= 0 && new_y < COL && grid[new_x][new_y] == 0) {
-                    que.push({new_x, new_y});
-                    grid[new_x][new_y] = true;
-                }
-                
-            }
-            
-        }
-        
-        return false;
-    }
-    
-    bool canCross(vector<vector<int>>& cells, int day) {
-        vector<vector<int>> grid(ROW, vector<int>(COL));
-        
-        for (int i = 0; i <= day; ++i) {
-            int r = cells[i][0] - 1;
-            int c = cells[i][1] - 1;
-            
-            grid[r][c] = 1;
-        }
-        
-        for (int j = 0; j < COL; j++) {
-            if (grid[0][j] == 0 && bfs(grid, 0, j)) {
-                return true;
-            }
-        }
-        return false;
-        
-    }
-    
     int latestDayToCross(int row, int col, vector<vector<int>>& cells) {
-        ROW = row;
-        COL = col;
-        
-        int n = cells.size();
-        
-        int l = 0;
-        int r = cells.size()-1;
-        int lastDay = 0;
-        
-        while( l <= r) {
-            
-            int mid = l + (r-l)/2;
-            
-            if(canCross(cells, mid)) {
-                lastDay = mid+1;
-                l       = mid+1;
-            } else {
-                r = mid-1;
+        DSU dsu(row * col + 2);
+        vector<vector<int>> grid(row, vector<int>(col, 0));
+        int dirs[8][2] = {{0, 1}, {0, -1}, {1, 0},  {-1, 0},
+                          {1, 1}, {1, -1}, {-1, 1}, {-1, -1}};
+
+        for (int i = 0; i < row * col; i++) {
+            int r = cells[i][0] - 1, c = cells[i][1] - 1;
+            grid[r][c] = 1;
+            int id1 = r * col + c + 1;
+
+            for (auto& d : dirs) {
+                int nr = r + d[0], nc = c + d[1];
+                if (nr >= 0 && nr < row && nc >= 0 && nc < col &&
+                    grid[nr][nc] == 1) {
+                    int id2 = nr * col + nc + 1;
+                    dsu.unite(id1, id2);
+                }
             }
-            
+
+            if (c == 0)
+                dsu.unite(0, id1);
+            if (c == col - 1)
+                dsu.unite(row * col + 1, id1);
+
+            if (dsu.find(0) == dsu.find(row * col + 1))
+                return i;
         }
-        
-        return lastDay;
-        
+        return -1;
     }
 };
