@@ -12,28 +12,38 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
-        queue<TreeNode*> Q;
-        if (root == nullptr) return 0;
-        Q.push(root);
-        int level = 0;
-        map<int, int> sum;
-        while (!Q.empty()) {
-            int cursum = 0;
-            int count = Q.size();
-            level ++;
-            for (int i = 0; i < count; ++ i) {
-                auto p = Q.front();
-                cursum += p->val;
-                if (p->left != nullptr) Q.push(p->left);
-                if (p->right != nullptr) Q.push(p->right);
-                Q.pop();
+        if (!root) return 0;
+
+        queue<TreeNode*> q;
+        q.push(root);
+
+        int level = 1;
+        int answerLevel = 1;
+        long long maxSum = LLONG_MIN;
+
+        while (!q.empty()) {
+            int size = q.size();
+            long long levelSum = 0;
+
+            for (int i = 0; i < size; i++) {
+                TreeNode* node = q.front();
+                q.pop();
+
+                levelSum += node->val;
+
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
             }
-            if (sum.find(cursum) == sum.end()) {
-                sum[cursum] = level;
-            } else {
-                sum[cursum] = min(sum[cursum], level);
+
+            if (levelSum > maxSum) {
+                maxSum = levelSum;
+                answerLevel = level;
             }
+
+            level++;
         }
-        return rbegin(sum)->second;
+
+        return answerLevel;
+
     }
 };
