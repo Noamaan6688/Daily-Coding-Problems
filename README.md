@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0135-candy) |
@@ -452,6 +453,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -757,6 +759,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0368-largest-divisible-subset) |
@@ -826,6 +829,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0498-diagonal-traverse) |
@@ -974,6 +978,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3001-apply-operations-to-maximize-score) |
