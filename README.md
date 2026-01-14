@@ -156,6 +156,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3483-alternating-groups-ii) |
@@ -919,6 +920,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1042,6 +1044,7 @@
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3454-separate-squares-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3791-fruits-into-baskets-iii) |
@@ -1118,4 +1121,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
