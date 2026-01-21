@@ -152,6 +152,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -953,6 +954,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
