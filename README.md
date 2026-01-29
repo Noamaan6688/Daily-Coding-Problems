@@ -138,6 +138,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -446,6 +447,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1007,6 +1009,7 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1159,4 +1162,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
