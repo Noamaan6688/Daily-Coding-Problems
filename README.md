@@ -139,6 +139,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -448,6 +449,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3194-find-words-containing-character](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -822,6 +824,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1010,6 +1013,7 @@
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1114,6 +1118,7 @@
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -1166,4 +1171,5 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
