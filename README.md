@@ -24,6 +24,7 @@
 | [0611-valid-triangle-number](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0797-rabbits-in-forest) |
@@ -932,6 +933,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
