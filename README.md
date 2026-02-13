@@ -302,6 +302,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -480,6 +481,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -652,6 +654,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
