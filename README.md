@@ -824,6 +824,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0868-push-dominoes) |
