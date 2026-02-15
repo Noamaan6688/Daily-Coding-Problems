@@ -315,6 +315,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0368-largest-divisible-subset) |
@@ -420,6 +421,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0756-pyramid-transition-matrix) |
@@ -509,6 +511,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -995,6 +998,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0231-power-of-two) |
 | [0756-pyramid-transition-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
