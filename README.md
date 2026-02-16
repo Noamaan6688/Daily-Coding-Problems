@@ -802,6 +802,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -999,6 +1000,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0231-power-of-two) |
 | [0756-pyramid-transition-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
