@@ -423,6 +423,7 @@
 | [0038-count-and-say](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
@@ -880,6 +881,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
