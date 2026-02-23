@@ -248,6 +248,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1813-maximum-erasure-value) |
@@ -441,6 +442,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1012,6 +1014,7 @@
 | [0868-binary-gap](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1181,6 +1184,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Brainteaser
 |  |
@@ -1226,4 +1230,8 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
