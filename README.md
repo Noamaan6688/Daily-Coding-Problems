@@ -737,6 +737,7 @@
 | [0110-balanced-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -756,6 +757,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -799,6 +801,7 @@
 | [0110-balanced-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
