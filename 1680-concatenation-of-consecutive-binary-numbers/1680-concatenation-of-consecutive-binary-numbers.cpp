@@ -1,12 +1,17 @@
 class Solution {
 public:
     int concatenatedBinary(int n) {
-        long long int mod=1000000007,c=0,c1=0;
-        for (int i=1;i<=n;i+=1)
-        {
-            if ((i&(i-1))==0) c1+=1;
-            c=((c<<c1)+i)%mod;
+        const int MOD = 1e9 + 7;
+        long long ans = 0;
+        int bits = 0;
+
+        for(int i = 1; i <= n; i++) {
+            if((i & (i - 1)) == 0) 
+                bits++;
+
+            ans = ((ans << bits) % MOD + i) % MOD;
         }
-        return c;
+
+        return ans;
     }
 };
