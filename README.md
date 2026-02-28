@@ -706,6 +706,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -753,6 +754,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -774,6 +776,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -818,6 +821,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -825,6 +829,7 @@
 | [0190-reverse-bits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Graph
@@ -1258,4 +1263,8 @@
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
