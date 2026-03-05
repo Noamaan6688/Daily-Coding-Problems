@@ -456,6 +456,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
