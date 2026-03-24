@@ -143,6 +143,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2906-construct-product-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -678,6 +679,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -975,6 +977,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3227-find-missing-and-repeated-values) |
