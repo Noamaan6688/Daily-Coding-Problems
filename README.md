@@ -30,6 +30,7 @@
 | [0797-rabbits-in-forest](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0874-walking-robot-simulation) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -251,6 +252,7 @@
 | [0797-rabbits-in-forest](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -555,6 +557,7 @@
 | [0067-add-binary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
