@@ -129,6 +129,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -507,6 +508,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
