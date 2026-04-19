@@ -75,6 +75,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -983,6 +984,7 @@
 | [0768-partition-labels](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1086,6 +1088,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
