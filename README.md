@@ -138,6 +138,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -607,6 +608,7 @@
 | [2402-meeting-rooms-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2479-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
