@@ -71,6 +71,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1656-count-good-triplets) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1813-maximum-erasure-value) |
@@ -289,6 +290,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -733,6 +735,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
