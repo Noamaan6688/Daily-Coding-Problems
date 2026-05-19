@@ -140,6 +140,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2540-minimum-common-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -314,6 +315,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2540-minimum-common-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2689-rearranging-fruits) |
@@ -1031,6 +1033,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2540-minimum-common-value) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1146,6 +1149,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2690-house-robber-iv) |
