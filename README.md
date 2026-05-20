@@ -147,6 +147,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2681-put-marbles-in-bags) |
@@ -317,6 +318,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2540-minimum-common-value](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2540-minimum-common-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1195,6 +1197,7 @@
 | [2478-longest-nice-subarray](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
