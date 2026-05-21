@@ -171,6 +171,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -328,6 +329,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -546,6 +548,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1351,6 +1354,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
