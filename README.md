@@ -159,6 +159,7 @@
 | [2751-robot-collisions](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2906-construct-product-matrix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2906-construct-product-matrix) |
@@ -324,6 +325,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2784-check-if-array-is-good](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -673,6 +675,7 @@
 | [2689-rearranging-fruits](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2751-robot-collisions](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
