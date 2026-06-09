@@ -251,6 +251,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3660-jump-game-ix](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -853,6 +854,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Noamaan6688/Daily-Coding-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
